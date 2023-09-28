@@ -1,0 +1,141 @@
+@media (min-width: 0px) and (max-width: 798px) {
+    .cabecalho-nome {
+        display: none;
+    }
+    .menu {
+        display: none;
+    }
+    section {
+        padding: 10px 2%;
+    }
+
+    h1 {
+        font-size: 1rem;
+        margin-bottom: 10px;
+    }
+    #curiosidades {
+        height: 60vh;
+    }
+    #quemSomos {
+        height: 35vh;
+    }
+    #cultura,
+    #turismo {
+        height: 50vh;
+    }
+    section p {
+        font-size: 0.7rem;
+        padding: 10px;
+    }
+
+    section#contato {
+        height: 60vh;
+    }
+    section#contato h1 {
+        padding-bottom: 1rem;
+    }
+    #contato img {
+        display: none;
+    }
+
+    .container {
+        max-width: 65vw;
+        height: 45vh;
+        padding: 10px;
+        justify-content: center;
+    }
+
+    .container h3 {
+        margin: 10px 0;
+        font-size: 0.7rem;
+    }
+    .input {
+        padding: 2px;
+        font-size: 0.7rem;
+    }
+    .input-single label {
+        font-size: 0.7rem;
+    }
+    
+    form input[type=submit] {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+    
+    .rodape {
+        height: 2vh;
+    }
+    
+    .rodape span {
+        font-size: 10px;
+    }
+    
+    .rodape-icon {
+        padding: 10px 5px;
+    }
+}
+@media (min-width: 799px) and (max-width: 1280px) {
+    .cabecalho {
+        justify-content: space-around;
+    }
+    .cabecalho-nome {
+        display: none;
+    }
+    .menu a {
+        font-size: 0.90rem;
+    }
+
+    section {
+        padding: 20px 2%;
+    }
+
+    h1 {
+        font-size: 1.1rem;
+        margin-bottom: 10px;
+    }
+    section p {
+        font-size: 0.7rem;
+        padding: 10px;
+    }
+
+    section#contato {
+        height: 60vh;
+    }
+    #contato img {
+        display: none;
+    }
+    .container {
+        width: 45vw;
+        height: 40vh;
+        padding: 10px;
+    }
+
+    .container h3 {
+        margin: 10px 0;
+        font-size: 0.7rem;
+    }
+    .input {
+        padding: 2px;
+        font-size: 0.7rem;
+    }
+    .input-single label {
+        font-size: 0.7rem;
+    }
+    
+    form input[type=submit] {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+    
+    .rodape {
+        height: 2vh;
+    }
+    
+    .rodape span {
+        font-size: 10px;
+    }
+    
+    .rodape-icon {
+        padding: 10px 5px;
+    }
+}
