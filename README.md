@@ -1,6 +1,8 @@
 # **Site TakAna**
 
->Este projeto teve como objetivo por em prática algumas
+>O site TakAna, é uma empresa fictícia, no qual criei com o objetivo aprimorar minhas habilidades em Html, Css e Javascript. E conjuntamente, estudar UX/UI de um site.
+
+* Você pode visitar o projeto online [aqui]().
 
 ### **Minhas implementações**
 
