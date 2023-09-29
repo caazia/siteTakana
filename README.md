@@ -2,7 +2,7 @@
 
 >O site TakAna, é uma empresa fictícia, no qual criei com o objetivo aprimorar minhas habilidades em Html, Css e Javascript. E conjuntamente, estudar UX/UI de um site.
 
-* Você pode visitar o projeto online [aqui]().
+* Você pode visitar o projeto online [aqui](https://caazia.github.io/siteTakana/).
 
 ### **Minhas implementações**
 
