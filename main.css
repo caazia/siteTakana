@@ -29,7 +29,7 @@ body {
     padding: 12px 100px;
     background: #eae4ceac;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     z-index: 100;
 }
@@ -211,12 +211,16 @@ form input[type=submit] {
     cursor: pointer;
 }
 
+form input[type=submit]:hover {
+    background-color: rgba(17, 172, 17, 0.47);;
+}
+
 
 /* RODAPE */
 
 .rodape {
     width: 100%;
-    height: 3vh;
+    height: 2vh;
     display: flex;
     flex-direction: column;
     align-items: center;
